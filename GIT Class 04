@@ -1,0 +1,10 @@
+Stashing:
+Temporarily saving one's code in the stashing area for future use
+
+1. Stashing places the changes in the working directory to the stashing area
+2. the working directory will now contain the code from the last commit in the repo
+
+Examples:
+1. Create a basic structure of car
+2. Commit it.
+3. Create a red colored Aston Martin with some basic car features
